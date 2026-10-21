@@ -114,10 +114,3 @@ This tool is for educational and research purposes only. It **does not store any
 password** — all processing happens locally and in-memory.
 
 ---
-
-## 🧠 Authors
-
-Originally created by [Balakavi](https://instagram.com/kavi.s_netwrok/) — `#KavisNetwork`.
-
-Upgraded to v2.0 (ML feature engineering, entropy/crack-time engine, REST API +
-web UI, and test suite) as a community contribution.
